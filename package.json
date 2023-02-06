@@ -1,0 +1,25 @@
+{
+  "name": "layout-designer-project-58",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "My first project html and css on hexlet.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxdzyubak/layout-designer-project-58.git"
+  },
+  "author": "Maxim Dzyubak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxdzyubak/layout-designer-project-58/issues"
+  },
+  "homepage": "https://github.com/maxdzyubak/layout-designer-project-58#readme",
+
+  "devDependencies": {
+    "htmlhint": "^1.1.4",
+    "stylelint-config-standard": "^29.0.0"
+  }
+}
