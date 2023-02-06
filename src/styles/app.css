@@ -1,0 +1,47 @@
+:root {
+  --color-white: #ffff;
+  --color-light: #f5f4f0;
+  --color-primary: #ff8a02;
+  --color-primary-dark: #42413c;
+  --color-dark: #2a2626;
+  --color-dark-50: #908d8b;
+  --color-brown: #b09a81;
+  --color-white-50: #d7ccc0;
+  --color-blue: #1085c5;
+}
+
+body {
+  font-size: 16px;
+  line-height: 1.6em;
+  font-family: "Open Sans", sans-serif;
+  color: var(--color-dark);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.2em;
+  font-family: Neucha, cursive;
+}
+
+h1 {
+  font-size: 72px;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+h3 {
+  font-size: 34px;
+}
+
+section {
+  width: 1110px;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
