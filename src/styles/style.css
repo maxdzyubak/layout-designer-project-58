@@ -12,13 +12,16 @@
   --color-hover: #ea7600;
 }
 
+* {
+  margin: 0;
+}
+
 html {
   font-size: 16px;
   font-family: "Open Sans", serif;
 }
 
 body {
-  margin: 0;
   color: var(--color-dark);
   overflow-x: hidden;
 }
@@ -142,10 +145,6 @@ nav ul {
   display: block;
 }
 
-.d-flex {
-  display: flex;
-}
-
 .flex-wrap {
   flex-wrap: wrap;
 }
@@ -181,6 +180,14 @@ nav ul {
 
 .ta-center {
   text-align: center;
+}
+
+.mt-5px {
+  margin-top: 5px;
+}
+
+.mt-38px {
+  margin-top: 38px;
 }
 
 .mt-60px {
@@ -341,10 +348,6 @@ nav ul {
   margin: 0;
 }
 
-.nav-item p {
-  margin: 0;
-}
-
 .nav-item-link {
   display: block;
   height: 275px;
@@ -378,7 +381,6 @@ nav ul {
 
 .label {
   display: block;
-  margin-top: 80px;
   margin-bottom: 9px;
 }
 
@@ -387,7 +389,7 @@ nav ul {
   float: right;
   height: 50px;
   width: 70px;
-  padding-right: 55px;
+  margin-right: 55px;
   color: var(--color-white);
   background-color: var(--color-primary);
   border: 1px;
