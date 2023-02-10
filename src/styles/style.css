@@ -12,16 +12,13 @@
   --color-hover: #ea7600;
 }
 
-* {
-  margin: 0;
-}
-
 html {
   font-size: 16px;
   font-family: "Open Sans", serif;
 }
 
 body {
+  margin: 0;
   color: var(--color-dark);
   overflow-x: hidden;
 }
@@ -32,6 +29,7 @@ h3,
 h4,
 h5,
 h6 {
+  margin: 0;
   line-height: 1.2em;
   font-weight: 400;
   font-family: Neucha, cursive;
@@ -145,6 +143,18 @@ nav ul {
   display: block;
 }
 
+.d-flex {
+  display: flex;
+}
+
+.fd-column {
+  flex-direction: column;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
 .flex-wrap {
   flex-wrap: wrap;
 }
@@ -184,10 +194,6 @@ nav ul {
 
 .mt-5px {
   margin-top: 5px;
-}
-
-.mt-38px {
-  margin-top: 38px;
 }
 
 .mt-60px {
@@ -362,6 +368,10 @@ nav ul {
   font-size: 64px;
   font-family: Neucha, cursive;
   line-height: 1;
+}
+
+nav .nav-number {
+  margin-bottom: 40px;
 }
 
 .nav-item:hover .nav-number,
