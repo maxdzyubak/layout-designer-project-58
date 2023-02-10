@@ -15,6 +15,7 @@
 html {
   font-size: 16px;
   font-family: "Open Sans", serif;
+  line-height: 1.6;
 }
 
 body {
@@ -201,8 +202,8 @@ nav ul {
   margin-top: 100px;
 }
 
-.mt-185px {
-  margin-top: 185px;
+.mt-200px {
+  margin-top: 200px;
 }
 
 .mb-8px {
@@ -223,6 +224,10 @@ nav ul {
 
 .mb-40 {
   margin-bottom: 40px;
+}
+
+.pb-40 {
+  padding-bottom: 40px;
 }
 
 .mb-100px {
