@@ -40,6 +40,7 @@ h6 {
 h1 {
   font-size: 72px;
   z-index: 333;
+  margin-top: 6px;
 }
 
 h2 {
@@ -202,8 +203,8 @@ nav ul {
   margin-top: 100px;
 }
 
-.mt-195px {
-  margin-top: 195px;
+.mt-193px {
+  margin-top: 193px;
 }
 
 .mb-8px {
@@ -222,12 +223,16 @@ nav ul {
   margin-bottom: 30px;
 }
 
+.mb-33 {
+  margin-bottom: 33px;
+}
+
 .mb-40 {
   margin-bottom: 40px;
 }
 
-.pb-40 {
-  padding-bottom: 40px;
+.pb-33px {
+  padding-bottom: 33px;
 }
 
 .mb-100px {
