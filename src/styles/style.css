@@ -40,7 +40,6 @@ h6 {
 h1 {
   font-size: 72px;
   z-index: 333;
-  margin-top: 6px;
 }
 
 h2 {
@@ -319,7 +318,7 @@ nav ul {
 }
 
 .btn-header {
-  padding: 12px 26px;
+  padding: 12px 24px;
 }
 
 .btn {
