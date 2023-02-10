@@ -61,6 +61,7 @@ a {
 }
 
 img {
+  vertical-align: middle;
   filter: drop-shadow(0 16px 32px rgba(0 0 0 / 15%));
 }
 
@@ -318,7 +319,7 @@ nav ul {
 }
 
 .btn-header {
-  padding: 12px 24px;
+  padding: 12px 26px;
 }
 
 .btn {
