@@ -99,9 +99,8 @@ nav ul {
   position: relative;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   max-width: 1110px;
-  min-height: 700px;
+  min-height: 714px;
   margin-right: auto;
   margin-left: auto;
   padding-top: 100px;
@@ -113,8 +112,6 @@ nav ul {
   top: 55px;
   right: -270px;
   height: 525px;
-  max-width: none;
-  filter: none;
 }
 
 .container {
@@ -202,6 +199,10 @@ nav ul {
 
 .mt-100 {
   margin-top: 100px;
+}
+
+.mt-185px {
+  margin-top: 185px;
 }
 
 .mb-8px {
