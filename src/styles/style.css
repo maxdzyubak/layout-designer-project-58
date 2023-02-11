@@ -19,7 +19,9 @@ html {
 }
 
 body {
+  margin: 0;
   color: var(--color-dark);
+  overflow-x: hidden;
 }
 
 h1,
@@ -198,8 +200,8 @@ nav ul {
   margin-top: 100px;
 }
 
-.mt-200px {
-  margin-top: 200px;
+.mt-198px {
+  margin-top: 198px;
 }
 
 .mb-8px {
