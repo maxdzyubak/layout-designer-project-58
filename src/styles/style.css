@@ -241,6 +241,10 @@ nav ul {
   margin-bottom: 195px;
 }
 
+.lh-1-2em {
+  line-height: 1.2em;
+}
+
 .lh-24px {
   line-height: 24px;
 }
