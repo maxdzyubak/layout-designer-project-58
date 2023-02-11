@@ -100,8 +100,6 @@ nav ul {
   display: flex;
   flex-direction: column;
   max-width: 1110px;
-  margin-right: auto;
-  margin-left: auto;
   padding-top: 100px;
   padding-bottom: 100px;
 }
@@ -234,6 +232,10 @@ nav ul {
 
 .mb-100px {
   margin-bottom: 100px;
+}
+
+.mb-185px {
+  margin-bottom: 185px;
 }
 
 .lh-24px {
