@@ -102,6 +102,22 @@ header img {
   filter: none;
 }
 
+#premature-optimization::before,
+#hyperbolic-depreciation::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.1;
+  background-image: url("../images/background.png");
+  background-color: var(--color-light);
+  background-repeat: no-repeat;
+  background-size: cover;
+  content: "";
+}
+
+
 .header-container {
   position: relative;
   display: flex;
