@@ -94,10 +94,6 @@ nav ul {
   content: "";
 }
 
-header {
-  height: 914px;
-}
-
 header img {
   filter: none;
 }
@@ -115,10 +111,6 @@ header img {
   background-repeat: no-repeat;
   background-size: cover;
   content: "";
-}
-
-#premature-optimization {
-  height: 855px;
 }
 
 .header-container {
