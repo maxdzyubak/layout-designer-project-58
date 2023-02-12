@@ -98,6 +98,10 @@ header {
   height: 914px;
 }
 
+header img {
+  filter: none;
+}
+
 .header-container {
   position: relative;
   display: flex;
@@ -234,7 +238,7 @@ header {
 }
 
 .pb-35px {
-  padding-bottom: 35px;
+  padding-bottom: 32px;
 }
 
 .mb-100px {
