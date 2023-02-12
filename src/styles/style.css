@@ -94,6 +94,10 @@ nav ul {
   content: "";
 }
 
+header {
+  height: 914px;
+}
+
 .header-container {
   position: relative;
   display: flex;
