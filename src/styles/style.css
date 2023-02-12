@@ -117,6 +117,9 @@ header img {
   content: "";
 }
 
+#premature-optimization {
+  height: 855px;
+}
 
 .header-container {
   position: relative;
